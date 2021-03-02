@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlospadilla91&label=Profile%20views&color=0e75b6&style=flat" alt="carlospadilla91" /> </p>
 
-- 🌱 I’m currently learning **JS,HTML,CSS,Bootstrap**
+- 🌱 I’m currently learning **JS,HTML,CSS,Bootstrap,Java**
 
 - 📫 How to reach me **mr.carlos.padilla@gmail.com**
 
