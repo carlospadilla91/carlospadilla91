@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Padilla</h1>
-<h3 align="center">Current Web Development Student at Codeup</h3>
+<h3 align="center">Software Developer</h3>
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
